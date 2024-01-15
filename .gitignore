@@ -9,3 +9,6 @@ kotitehtava1/kotitehtava1_2/*.user
 
 kotitehtava1/kotitehtava1_3/build/
 kotitehtava1/kotitehtava1_3/*.user
+
+*/build/
+*/*.user

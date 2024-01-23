@@ -21,3 +21,6 @@ kotitehtava3/kotitehtava3_4/*.user
 
 */build/
 */*.user
+
+*/build/*
+*/*.user

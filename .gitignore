@@ -10,5 +10,14 @@ kotitehtava1/kotitehtava1_2/*.user
 kotitehtava1/kotitehtava1_3/build/
 kotitehtava1/kotitehtava1_3/*.user
 
+kotitehtava3/kotitehtava3_1_ja_2/build/
+kotitehtava3/kotitehtava3_1_ja_2/*.user
+
+kotitehtava3/kotitehtava3_3/build/
+kotitehtava3/kotitehtava3_3/*.user
+
+kotitehtava3/kotitehtava3_4/build/
+kotitehtava3/kotitehtava3_4/*.user
+
 */build/
 */*.user

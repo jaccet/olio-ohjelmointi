@@ -11,7 +11,7 @@ public:
     Asunto *as3 = new Asunto;
     Asunto *as4 = new Asunto;
     Kerros();
-    ~Kerros();
+    virtual ~Kerros();
     virtual void maaritaAsunnot();
     double laskeKulutus(double);
 };

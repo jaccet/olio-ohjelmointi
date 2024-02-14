@@ -9,7 +9,7 @@ public:
     Asunto *as1 = new Asunto;
     Asunto *as2 = new Asunto;
     Katutaso();
-    ~Katutaso();
+    virtual ~Katutaso();
     virtual void maaritaAsunnot() override;
     double laskeKulutus(double);
 };

@@ -31,7 +31,6 @@ void MainWindow::timeout()
         setGameInfoText("Player 1 WON!!",30);
         pQTimer->stop();
     }
-    qDebug()<<"In timeout";
     switch (currentPlayer) {
     case 1:
         player1Time--;
